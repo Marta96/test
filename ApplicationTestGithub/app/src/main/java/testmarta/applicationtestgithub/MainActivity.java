@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                text.append("Pressed button");
+                text.append("Pressed button and add to Github");
             }
         });
 
